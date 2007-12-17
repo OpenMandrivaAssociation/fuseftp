@@ -12,7 +12,6 @@ URL:		http://wiki.thiesen.org/page/Fuseftp
 Source0:	%{name}-%{version}.tar.bz2
 Buildarch:	noarch
 Requires:	fuse perl-Cache
-Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 FTP module for FUSE.
