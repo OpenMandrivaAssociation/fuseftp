@@ -1,6 +1,6 @@
 %define	name	fuseftp
 %define	version	0.8
-%define	release	%mkrel 7
+%define	release	%mkrel 8
 
 Name:		%{name}
 Summary:	FTP module for FUSE
