@@ -33,6 +33,4 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(-,root,root)
 %doc README
-%{perl_vendorarch}/auto/%{name}
 %{_bindir}/%{name}
-
