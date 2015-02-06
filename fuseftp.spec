@@ -1,7 +1,7 @@
 Name:		fuseftp
 Summary:	FTP module for FUSE
 Version:	0.8
-Release:	10
+Release:	11
 License:	GPLv1 or Artistic
 Group:		Development/Perl
 URL:		https://github.com/marcust/fuseftp
